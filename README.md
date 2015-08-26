@@ -1,2 +1,3 @@
 # trans-pars
 storing the translation prog files
+so we are getting serious about putting together a translation prog that takes advantage of available translation prog's and to provide the major news articles to the farsi readers inside the countries. here goes ...
